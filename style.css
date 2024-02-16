@@ -149,6 +149,33 @@ width: 13%;
 margin-top: -27%;
 margin-left: 59%;
 }
+
+.parrafo3{
+  margin: 16%;
+    text-align: center;
+    color: #575757;
+    font-size: 26px;
+    font-family: 'Great Vibes', cursive;
+    margin-top: -5%;
+}
+
+.parrafo4{
+  margin: 16%;
+    text-align: center;
+    color: #777777;
+    font-size: 26px;
+    font-family: 'Great Vibes', cursive;
+    font-weight: 550;
+}
+.parrafo5{
+  margin: 16%;
+    text-align: center;
+    color: #575757;
+    font-size: 26px;
+    font-family: 'Great Vibes', cursive;
+    margin-top: -5%;
+}
+
 }
   
  
